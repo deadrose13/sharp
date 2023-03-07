@@ -1,0 +1,15 @@
+D:\npkgleb\GB\c_sharp\hw1\bin\Debug\net7.0\hw1.exe
+D:\npkgleb\GB\c_sharp\hw1\bin\Debug\net7.0\hw1.deps.json
+D:\npkgleb\GB\c_sharp\hw1\bin\Debug\net7.0\hw1.runtimeconfig.json
+D:\npkgleb\GB\c_sharp\hw1\bin\Debug\net7.0\hw1.dll
+D:\npkgleb\GB\c_sharp\hw1\bin\Debug\net7.0\hw1.pdb
+D:\npkgleb\GB\c_sharp\hw1\obj\Debug\net7.0\hw1.csproj.AssemblyReference.cache
+D:\npkgleb\GB\c_sharp\hw1\obj\Debug\net7.0\hw1.GeneratedMSBuildEditorConfig.editorconfig
+D:\npkgleb\GB\c_sharp\hw1\obj\Debug\net7.0\hw1.AssemblyInfoInputs.cache
+D:\npkgleb\GB\c_sharp\hw1\obj\Debug\net7.0\hw1.AssemblyInfo.cs
+D:\npkgleb\GB\c_sharp\hw1\obj\Debug\net7.0\hw1.csproj.CoreCompileInputs.cache
+D:\npkgleb\GB\c_sharp\hw1\obj\Debug\net7.0\hw1.dll
+D:\npkgleb\GB\c_sharp\hw1\obj\Debug\net7.0\refint\hw1.dll
+D:\npkgleb\GB\c_sharp\hw1\obj\Debug\net7.0\hw1.pdb
+D:\npkgleb\GB\c_sharp\hw1\obj\Debug\net7.0\hw1.genruntimeconfig.cache
+D:\npkgleb\GB\c_sharp\hw1\obj\Debug\net7.0\ref\hw1.dll
