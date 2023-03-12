@@ -1,0 +1,15 @@
+D:\npkgleb\GB\c_sharp\hw2\bin\Debug\net7.0\hw2.exe
+D:\npkgleb\GB\c_sharp\hw2\bin\Debug\net7.0\hw2.deps.json
+D:\npkgleb\GB\c_sharp\hw2\bin\Debug\net7.0\hw2.runtimeconfig.json
+D:\npkgleb\GB\c_sharp\hw2\bin\Debug\net7.0\hw2.dll
+D:\npkgleb\GB\c_sharp\hw2\bin\Debug\net7.0\hw2.pdb
+D:\npkgleb\GB\c_sharp\hw2\obj\Debug\net7.0\hw2.csproj.AssemblyReference.cache
+D:\npkgleb\GB\c_sharp\hw2\obj\Debug\net7.0\hw2.GeneratedMSBuildEditorConfig.editorconfig
+D:\npkgleb\GB\c_sharp\hw2\obj\Debug\net7.0\hw2.AssemblyInfoInputs.cache
+D:\npkgleb\GB\c_sharp\hw2\obj\Debug\net7.0\hw2.AssemblyInfo.cs
+D:\npkgleb\GB\c_sharp\hw2\obj\Debug\net7.0\hw2.csproj.CoreCompileInputs.cache
+D:\npkgleb\GB\c_sharp\hw2\obj\Debug\net7.0\hw2.dll
+D:\npkgleb\GB\c_sharp\hw2\obj\Debug\net7.0\refint\hw2.dll
+D:\npkgleb\GB\c_sharp\hw2\obj\Debug\net7.0\hw2.pdb
+D:\npkgleb\GB\c_sharp\hw2\obj\Debug\net7.0\hw2.genruntimeconfig.cache
+D:\npkgleb\GB\c_sharp\hw2\obj\Debug\net7.0\ref\hw2.dll
